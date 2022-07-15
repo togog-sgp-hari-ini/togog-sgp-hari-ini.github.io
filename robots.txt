@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://togog-sgp-hari-ini.github.io/sitemap.xml
